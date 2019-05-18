@@ -1,0 +1,1 @@
+The database file "nghifi.sql" should be name as "nghifi" when import
